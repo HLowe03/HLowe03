@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HLowe03
 - 👀 I’m interested in Embedded Systems, Robotics and Low Level Languages
-- 🌱 I’m currently learning x86 ASM, C++
+- 🌱 I’m currently learning x86 ASM, C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: @Toesia#3348
 
