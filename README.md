@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems, Robotics and Low Level Languages
 - 🌱 I’m currently learning x86 ASM, C/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me **Email**: harrisonlowe03@gmail.com **Discord**: @Toesia#3348
+- 📫 How to reach me **Email**: harrisonlowe03@gmail.com 
 
 <!---
 HLowe03/HLowe03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
